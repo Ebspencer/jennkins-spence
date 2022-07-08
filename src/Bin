@@ -1,0 +1,74 @@
+    //double x;
+            //double y;
+            //double z;
+
+            //Scanner scanner = new Scanner(System.in);
+            //System.out.println("Enter the first number ");
+            //x = scanner.nextDouble();
+            //System.out.println("Enter the second number ");
+            //y = scanner.nextDouble();
+            //z = Math.sqrt((x*x)+(y*y));
+            //System.out.println("The hypotenus is " +z);
+
+
+            // String name = JOptionPane.showInputDialog("Enter your name");
+            //JOptionPane.showMessageDialog(null, "Hello "+name);
+
+            //int age = Integer.parseInt(JOptionPane.showInputDialog("Enter your age"));
+            //JOptionPane.showMessageDialog(null, "You are "+age+" years old");
+
+            // double height = Double.parseDouble(JOptionPane.showInputDialog("Enter your height"));
+            //JOptionPane.showMessageDialog(null, "You are "+height+"cm tall");
+
+            //String question = JOptionPane.showInputDialog("Is there anything else I can assist you with today?");
+            //JOptionPane.showMessageDialog(null, "Thank you for contacting us today "+name);
+
+
+            //int x = 10;
+            //int y = 20;
+            //int d;
+            //d=x;
+            //x=y;
+            //y=d;
+            //System.out.println( "x is: "+ x);
+            //System.out.println("y is:"+ y);
+
+
+            //Scanner scanner = new Scanner(System.in);
+            //System.out.println("What is your name");
+            //String name = scanner.nextLine();
+            //System.out.println("Hello " +name);
+
+
+            //Scanner daddy = new Scanner(System.in);
+            //System.out.println("Please enter your social security number");
+            //int pesel = daddy.nextInt();
+            //System.out.println("You provided the correct pesel number");
+
+            //Scanner pizza = new Scanner(System.in);
+            //System.out.println("Please enter your age");
+            //int pot = pizza.nextInt();
+            //scanner.nextLine();
+            //System.out.println("Your name is " +name +"\nYour pesel number is" +pesel +"\nYou are " +pot );
+            //System.out.println("Your name is " +name);
+            //System.out.println("Your pesel number is " +pesel);
+            //System.out.println("You are  " +pot);
+
+
+            //String u = "Beans";
+            //String w = "Rice";
+            //String mega;
+
+            //mega = u;
+            //u=w;
+            //w=u;
+            //w=mega;
+
+            //System.out.println("u: "+u);
+            //System.out.println("w: "+w);
+            //System.out.println("mega: "+w);
+
+            //System.out.println(p+x);
+            //System.out.println("I love SONALAKE\n");
+            //System.out.println("I love Java");
+            //System.out.println("I appreciate DevOps Java");
